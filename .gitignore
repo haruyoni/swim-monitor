@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# 환경 변수 파일
+.env
+
+# 로그 파일
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 운영 체제별 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+
+# Railway 환경파일 (optional)
+railway.json
